@@ -14,7 +14,7 @@ Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extens
 None
 
 ## Future Development
-Will ad death condition and destroyable asteroids with animations
+Will add death condition and destroyable asteroids with animations
 
 ## Created by
 Samuel Styer
